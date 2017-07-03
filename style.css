@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+ .navbar.transparent.navbar-inverse .navbar-inner {
+   background: rgba(0,0,0,0.4);
+   height: 80px;
+   z-index: -1;
+   background-color:transparent;
+}
+li{
+	float: right;
+	text-decoration: none;
+	border-bottom: 80px;
+	color: white;
+	display: flex;
+	margin-top: 80px;
+	 margin-right:20px;
+
+}
+
+.logo{
+	margin-top: 100px;
+}
