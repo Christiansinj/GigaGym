@@ -1,25 +1,44 @@
 body{
 	margin: 0;
 	padding: 0;
+	background-color: yellow;
+}
+	/*Navbar*/
+
+header {
+	height: 100vh;
+	background-image: url("images/scott-webb-22697.jpg");
+	background-size: cover;
+	border-color: white;
+
 }
 
- .navbar.transparent.navbar-inverse .navbar-inner {
-   background: rgba(0,0,0,0.4);
-   height: 80px;
-   z-index: -1;
-   background-color:transparent;
-}
-li{
-	float: right;
-	text-decoration: none;
-	border-bottom: 80px;
+p{
 	color: white;
-	display: flex;
+}
+
+.logo img{
+margin-top: 130px;
+margin-left: 50px;
+}
+
+.navbar {
+	margin-top: 10em;
+	text-align: center;
+	color: :white;
+	z-index: 9;
+}
+
+	/*Navbar*/
+
+/*section1*/
+
+.section1{
 	margin-top: 80px;
-	 margin-right:20px;
+	margin-left: 500px;
+	}
 
+.section1 > p{
+	color: black;
 }
-
-.logo{
-	margin-top: 100px;
-}
+/*Section1*/
