@@ -45,10 +45,9 @@ margin-left: 50px;
 
 /*Section2*/
 .section2{
-	height: 60vh;
-	background-image:url(images/pass.jpg);
-}
-.contimg{
-	background-color: #090A0E;
+	height: 63vh;
+	 background-image:url("images/pass.jpg");
+	 background-repeat: no-repeat;
+	 background-color: #040507;
 }
 /*Section2*/
