@@ -42,3 +42,13 @@ margin-left: 50px;
 	color: black;
 }
 /*Section1*/
+
+/*Section2*/
+.section2{
+	height: 60vh;
+	background-image:url(images/pass.jpg);
+}
+.contimg{
+	background-color: #090A0E;
+}
+/*Section2*/
